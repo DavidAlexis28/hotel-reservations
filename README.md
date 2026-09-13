@@ -1,1 +1,1 @@
-# hotel-resservations
+# hotel-reservations
