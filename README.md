@@ -16,6 +16,11 @@ hotel-reservations
 # Los resultados permitirán identificar qué operaciones tardan más cuando aumenta la información y si es necesario realizar mejoras en las consultas SQL los índices o la comunicación entre Java y SQL Server mediante JDBC, así veremos las posibles mejoras del sistema asi se podrán realizar basándose en los resultados obtenidos en las pruebas y no solamente en suposiciones. 
 
 
+La optimización de las consultas SQL y el uso adecuado de JDBC son importantes para mejorar el tiempo de respuesta del sistema de automatización hotelera, una buena gestión de las consultas y de las conexiones con SQL Server 2022 puede ayudar a que operaciones como registrar clientes, consultar habitaciones y gestionar reservas se realicen de manera más rápida y eficiente.
+===
+
+
+
 **Pregunta principal:** 
 ===
 
