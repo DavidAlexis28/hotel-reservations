@@ -16,4 +16,24 @@ La optimización de las consultas SQL y el uso adecuado de JDBC son importantes 
 ¿Cómo varía el tiempo de respuesta de la consulta de habitaciones disponibles al aumentar el volumen de datos almacenados en SQL Server 2022? 
 ¿Qué diferencias de tiempo de respuesta se presentan entre las operaciones de registro, modificación y cancelación de reservas bajo diferentes volúmenes de datos? 
 
-¿Qué operaciones presentan los mayores tiempos de respuesta y requieren mayor atención en términos de optimización de consultas y acceso a datos mediante JDBC?
+**Delimitación teórica**
+El proyecto se enfocará en los conceptos relacionados con la gestión de reservas de hotel, específicamente en el registro y administración de clientes, habitaciones, reservas y pagos.
+
+**Delimitación espacial/contexto**
+El sistema estará orientado a la gestión de reservas de un establecimiento hotelero, considerando las operaciones relacionadas con clientes, habitaciones, reservas y pagos dentro de un contexto académico.
+
+**Delimitación temporal**
+El desarrollo del sistema se realizará durante el período académico establecido para el proyecto, comprendiendo las etapas de planificación, desarrollo, pruebas y presentación final.
+
+**Delimitación tecnológica**
+El sistema será desarrollado utilizando Java 21 como lenguaje de programación, IntelliJ IDEA 2026.2 como entorno de desarrollo y GitHub Desktop junto con GitHub.com para el control y gestión del código fuente. El desarrollo se realizará en un equipo con Windows 11 de 64 bits, 8 GB de memoria RAM y un procesador de 3.00 GHz.
+
+##Entorno tecnológico (Technology stack)
+Tecnología| Versión/Especificación| Uso
+Java| 21| Desarrollo del sistema
+IntelliJ IDEA| 2026.2| Entorno de desarrollo
+GitHub Desktop| —| Gestión del repositorio
+GitHub.com| —| Alojamiento y colaboración del código
+Windows| 11, 64 bits| Sistema operativo
+ Memoria RAM| 8 GB| Memoria del equipo
+Procesador| 3.00 GHz| Procesamiento del equipo
