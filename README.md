@@ -25,4 +25,5 @@ El sistema estará orientado a la gestión de reservas de un establecimiento hot
 **Delimitación temporal**
 El desarrollo del sistema se realizará durante el período académico establecido para el proyecto, comprendiendo las etapas de planificación, desarrollo, pruebas y presentación final.
 
-¿Qué operaciones presentan los mayores tiempos de respuesta y requieren mayor atención en términos de optimización de consultas y acceso a datos mediante JDBC?
+**Delimitación tecnológica**
+El sistema será desarrollado utilizando Java 21 como lenguaje de programación, IntelliJ IDEA 2026.2 como entorno de desarrollo y GitHub Desktop junto con GitHub.com para el control y gestión del código fuente. El desarrollo se realizará en un equipo con Windows 11 de 64 bits, 8 GB de memoria RAM y un procesador de 3.00 GHz.
