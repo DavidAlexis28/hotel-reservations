@@ -35,5 +35,5 @@ IntelliJ IDEA| 2026.2| Entorno de desarrollo
 GitHub Desktop| —| Gestión del repositorio
 GitHub.com| —| Alojamiento y colaboración del código
 Windows| 11, 64 bits| Sistema operativo
-RAM| 8 GB| Memoria del equipo
+ Memoria RAM| 8 GB| Memoria del equipo
 Procesador| 3.00 GHz| Procesamiento del equipo
