@@ -27,3 +27,13 @@ El desarrollo del sistema se realizará durante el período académico estableci
 
 **Delimitación tecnológica**
 El sistema será desarrollado utilizando Java 21 como lenguaje de programación, IntelliJ IDEA 2026.2 como entorno de desarrollo y GitHub Desktop junto con GitHub.com para el control y gestión del código fuente. El desarrollo se realizará en un equipo con Windows 11 de 64 bits, 8 GB de memoria RAM y un procesador de 3.00 GHz.
+
+##Entorno tecnológico (Technology stack)
+Tecnología| Versión/Especificación| Uso
+Java| 21| Desarrollo del sistema
+IntelliJ IDEA| 2026.2| Entorno de desarrollo
+GitHub Desktop| —| Gestión del repositorio
+GitHub.com| —| Alojamiento y colaboración del código
+Windows| 11, 64 bits| Sistema operativo
+RAM| 8 GB| Memoria del equipo
+Procesador| 3.00 GHz| Procesamiento del equipo
