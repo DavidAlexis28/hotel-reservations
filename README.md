@@ -16,4 +16,10 @@ La optimización de las consultas SQL y el uso adecuado de JDBC son importantes 
 ¿Cómo varía el tiempo de respuesta de la consulta de habitaciones disponibles al aumentar el volumen de datos almacenados en SQL Server 2022? 
 ¿Qué diferencias de tiempo de respuesta se presentan entre las operaciones de registro, modificación y cancelación de reservas bajo diferentes volúmenes de datos? 
 
+**Delimitación teórica**
+El proyecto se enfocará en los conceptos relacionados con la gestión de reservas de hotel, específicamente en el registro y administración de clientes, habitaciones, reservas y pagos.
+
+**Delimitación espacial/contexto**
+El sistema estará orientado a la gestión de reservas de un establecimiento hotelero, considerando las operaciones relacionadas con clientes, habitaciones, reservas y pagos dentro de un contexto académico.
+
 ¿Qué operaciones presentan los mayores tiempos de respuesta y requieren mayor atención en términos de optimización de consultas y acceso a datos mediante JDBC?
